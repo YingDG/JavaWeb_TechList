@@ -2,7 +2,6 @@ package com.util;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.springframework.context.support.FileSystemXmlApplicationContext;
 
 public final class BeanUtil {
 	private static ApplicationContext app = new ClassPathXmlApplicationContext("applicationContext.xml");
