@@ -1,3 +1,0 @@
-# Mybatis
-
-ORM框架
