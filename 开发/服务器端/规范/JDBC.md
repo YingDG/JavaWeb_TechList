@@ -1,3 +1,3 @@
-# JDBC
+# Java DataBase Connectivity
 
-Java数据库驱动程序
+Java数据库连接规范
